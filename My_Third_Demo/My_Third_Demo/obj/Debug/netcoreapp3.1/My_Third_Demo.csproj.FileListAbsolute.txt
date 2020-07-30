@@ -1,0 +1,11 @@
+E:\C#\My_Third_Demo\My_Third_Demo\bin\Debug\netcoreapp3.1\My_Third_Demo.exe
+E:\C#\My_Third_Demo\My_Third_Demo\bin\Debug\netcoreapp3.1\My_Third_Demo.deps.json
+E:\C#\My_Third_Demo\My_Third_Demo\bin\Debug\netcoreapp3.1\My_Third_Demo.runtimeconfig.json
+E:\C#\My_Third_Demo\My_Third_Demo\bin\Debug\netcoreapp3.1\My_Third_Demo.runtimeconfig.dev.json
+E:\C#\My_Third_Demo\My_Third_Demo\bin\Debug\netcoreapp3.1\My_Third_Demo.dll
+E:\C#\My_Third_Demo\My_Third_Demo\bin\Debug\netcoreapp3.1\My_Third_Demo.pdb
+E:\C#\My_Third_Demo\My_Third_Demo\obj\Debug\netcoreapp3.1\My_Third_Demo.csprojAssemblyReference.cache
+E:\C#\My_Third_Demo\My_Third_Demo\obj\Debug\netcoreapp3.1\My_Third_Demo.AssemblyInfoInputs.cache
+E:\C#\My_Third_Demo\My_Third_Demo\obj\Debug\netcoreapp3.1\My_Third_Demo.AssemblyInfo.cs
+E:\C#\My_Third_Demo\My_Third_Demo\obj\Debug\netcoreapp3.1\My_Third_Demo.dll
+E:\C#\My_Third_Demo\My_Third_Demo\obj\Debug\netcoreapp3.1\My_Third_Demo.pdb

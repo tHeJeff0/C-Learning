@@ -1,0 +1,11 @@
+E:\C#\My_Third_Demo\++和--\bin\Debug\netcoreapp3.1\++和--.exe
+E:\C#\My_Third_Demo\++和--\bin\Debug\netcoreapp3.1\++和--.deps.json
+E:\C#\My_Third_Demo\++和--\bin\Debug\netcoreapp3.1\++和--.runtimeconfig.json
+E:\C#\My_Third_Demo\++和--\bin\Debug\netcoreapp3.1\++和--.runtimeconfig.dev.json
+E:\C#\My_Third_Demo\++和--\bin\Debug\netcoreapp3.1\++和--.dll
+E:\C#\My_Third_Demo\++和--\bin\Debug\netcoreapp3.1\++和--.pdb
+E:\C#\My_Third_Demo\++和--\obj\Debug\netcoreapp3.1\++和--.csprojAssemblyReference.cache
+E:\C#\My_Third_Demo\++和--\obj\Debug\netcoreapp3.1\++和--.AssemblyInfoInputs.cache
+E:\C#\My_Third_Demo\++和--\obj\Debug\netcoreapp3.1\++和--.AssemblyInfo.cs
+E:\C#\My_Third_Demo\++和--\obj\Debug\netcoreapp3.1\++和--.dll
+E:\C#\My_Third_Demo\++和--\obj\Debug\netcoreapp3.1\++和--.pdb
